@@ -174,6 +174,54 @@ All chat messages are encrypted using AES-CBC.
 
 Each message includes a unique IV for added security.
 
+Problem Solving:
+This project tackles secure communication, group messaging, and network utilities in one chat application.
+
+1. Secure Messaging
+
+Problem: Plain text messages are vulnerable to attacks.
+
+Solution:
+
+RSA for secure key exchange.
+
+AES-CBC for fast message encryption.
+
+Digital signatures to verify sender identity.
+
+Result: Encrypted, verified, and tamper-proof chat messages.
+
+2. Broadcast & Group Chat
+
+Problem: Hard to manage global and group chats efficiently.
+
+Solution:
+
+@join:<group> → join a group.
+
+@leave → return to global chat.
+
+Smart routing sends messages only to relevant users.
+
+Result: Smooth broadcast and multicast communication.
+
+3. Built-in Tools
+
+Subdomain Scanner: @scan:<domain> → Finds top 100 hidden subdomains.
+
+Weather Info: @weather:<city> → Real-time weather using Open-Meteo API.
+
+4. Reliability & Performance
+
+Database logging to save all messages.
+
+Netty non-blocking I/O for high scalability.
+
+Thread-safe structures to prevent race conditions.
+
+
+
+
 run server first then login
 
 Database:
