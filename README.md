@@ -60,13 +60,21 @@ The project uses **Netty** for high-performance, non-blocking I/O and **MySQL** 
 
 src/
 ├── DBUtil.java # Database utility (MySQL connection, password hashing)
+
 ├── Home.form # UI layout for Home page
+
 ├── Home.java # Logic for Home page
+
 ├── LoginFormModern.java # Modern login form
+
 ├── SignUpFormModern.java # Modern sign-up form
+
 ├── NettyClient.java # Client-side networking and encryption
+
 ├── NettyServer.java # Server-side networking and message handling
+
 ├── Server.form # UI layout for server monitor
+
 ├── Server.java # Server application with GUI
 
 
