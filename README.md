@@ -175,6 +175,8 @@ All chat messages are encrypted using AES-CBC.
 Each message includes a unique IV for added security.
 
 
+
+//
 *Problem Solving:
 
 This project tackles secure communication, group messaging, and network utilities in one chat application.
@@ -223,7 +225,7 @@ Thread-safe structures to prevent race conditions.
 
 
 
-
+//
 run server first then login
 
 Database:
