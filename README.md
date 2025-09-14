@@ -248,3 +248,9 @@ CREATE TABLE messages (
     content TEXT,
     timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
 );
+
+//DEMO
+
+![Image](https://github.com/user-attachments/assets/154d120d-4e75-4bc5-affb-ae5f78ca0fd4)
+
+https://www.youtube.com/watch?v=l1C9XMt4qfs
