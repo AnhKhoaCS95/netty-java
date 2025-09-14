@@ -2,7 +2,7 @@ Project Features and Functionality
 
 This project is a secure chat application built using Java and Netty with both server and client implementations. It provides encrypted communication, group messaging, and integrated utilities like subdomain scanning and weather information retrieval.
 
-![Uploading e31b752875679b64fce009922f9f0dda.gif…]()
+
 
 
 1. Chat System
