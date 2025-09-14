@@ -154,8 +154,8 @@ This project addresses several challenges:
 
 ### **2. Database Setup**
 Run the following SQL to create the database and messages table:
-```sql
-//
+
+
 run server first then login
 
 Database:
@@ -179,10 +179,13 @@ CREATE TABLE messages (
 
 
 
-
-
 //DEMO
 
 ![Image](https://github.com/user-attachments/assets/154d120d-4e75-4bc5-affb-ae5f78ca0fd4)
 
 https://www.youtube.com/watch?v=l1C9XMt4qfs
+
+
+
+
+
